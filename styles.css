@@ -36,10 +36,12 @@ img {
   position: absolute;
   padding-top: 300px;
   background-color: black;  
+  background-color: #10A982;
 }
 
 .containercontainer {
   width: 100%;
+  background-color: #10A982;
 }
 
 .svg {
@@ -51,4 +53,12 @@ img {
   margin: 20%;
   width: 80%;
   height: 20rem;
+}
+
+.alex {
+  color: white;
+}
+
+.body {
+  background-color: #10A982;
 }
